@@ -1,0 +1,55 @@
+.lima{
+    height: 50px;
+}
+
+.seratus{
+    height: 100px;
+}
+
+.merah{
+    background: red;
+}
+
+.kuning{
+    background: yellow;
+}
+
+.hijau{
+    background: green;
+}
+
+.carousel img {
+    height: 250px;
+    width: 300px;
+    margin: auto;
+}   
+
+
+.jumbotron {
+    padding: 0,5rem;
+}
+
+.container h1 {
+    font-size: 3em;
+    font-weight: 300;
+}
+
+.card {
+    width: 250px;
+    margin: auto;
+    float:left;
+}
+
+@media (min-width:960px) {
+    .card img {
+    height: 200px;
+    width: 265px;
+    margin: auto;
+    margin-top:10px; 
+    }
+}
+
+.form {
+    width: 250px;
+    margin: auto;
+}
